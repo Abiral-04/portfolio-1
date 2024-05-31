@@ -917,6 +917,7 @@ textarea.contact-input {
   }
 
   .rotate-img {
+    background: transparent;
     display: block;
     position: absolute;
     bottom: -60px;
@@ -1055,4 +1056,8 @@ textarea.contact-input {
   .copyright,
   .footer-list { margin-inline: 0; }
 
+}
+
+.cv-options {
+  display: none;
 }
